@@ -15,6 +15,8 @@ int numberOfDoners = 0;
 
 struct doner doners[1000];
 
+//pratik//
+
 int main() {
 
     while (true) {
